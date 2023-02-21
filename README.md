@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=oooo5o%20&fontSize=70&animation=twinkling&fontAlignY=30&fontAlign=20)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!👋;Welcome+To+My+Github&height=45&size=32&color=1cff54)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!👋;Welcome+To+My+Github&height=45&size=32&color=FFE400)
 <!--
 **oooo5o/oooo5o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
